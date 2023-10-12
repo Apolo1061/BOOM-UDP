@@ -1,5 +1,5 @@
 # <font color="blue">UDP-RAW</font> CON SPOOFING
-
+<img src="https://img.shields.io/badge/Python-3.8-blue"> <img src="https://img.shields.io/badge/Version-1-red"> <img src="https://img.shields.io/badge/Descarga-Gratis-green"></a>
 ### <font color="gree">Para servers de craftman</font>
 
 <img src="/BOOM2.png"></img>
